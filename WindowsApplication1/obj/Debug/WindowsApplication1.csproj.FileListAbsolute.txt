@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\bin\Debug\ديون المحلات.exe
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\bin\Debug\ديون المحلات.pdb
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\bin\Debug\Interop.VBIDE.dll
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\obj\Debug\Interop.VBIDE.dll
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\obj\Debug\mayyas.Properties.Resources.resources
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CopyComplete
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\obj\Debug\ديون المحلات.exe
+C:\Users\User\Desktop\my c#\برنامج ديون المحلات\WindowsApplication1\obj\Debug\ديون المحلات.pdb
